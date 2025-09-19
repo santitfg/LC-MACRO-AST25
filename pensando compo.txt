@@ -1,0 +1,11 @@
+
+
+
+generación
+<-- freq
+<-- color
+deformacon tunel
+feedback <-- con pixelate?
+<-- dither y pixelate
+<--slint
+strobos

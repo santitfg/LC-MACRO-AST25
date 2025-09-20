@@ -1,11 +1,11 @@
 
 
 
-generación
-<-- freq
-<-- color
-deformacon tunel
-feedback <-- con pixelate?
-<-- dither y pixelate
-<--slint
-strobos
+generación freq
+generacion void
+<-- color antes o despues y q onda el rgb blur y mascara de rgb displaces?
+<-- deformaciones espaciales ( tunel ) 
+
+strobos y feedback 
+slint (en teroria no lo utilizaria en simultaneo
+dither y pixelate

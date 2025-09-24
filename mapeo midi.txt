@@ -2,9 +2,12 @@ sl0 y sl1
 mixers
 sl2 y k2
 defos espacio
-sl3 
-k3 lissajous
 
+fila 3 tiposde espacios 
+sl3 mix espacio
+sl4 amplitud lissajous
+
+sl2 <libres
 
 asociar rot y modulacion de slint 
 por ultimo version en activación

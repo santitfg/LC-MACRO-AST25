@@ -1,0 +1,14 @@
+sl0 y sl1
+mixers
+sl2 y k2
+defos espacio
+sl3 
+k3 lissajous
+
+
+asociar rot y modulacion de slint 
+por ultimo version en activación
+rango?
+temix
+sl4
+k4
